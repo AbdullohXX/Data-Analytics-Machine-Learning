@@ -9,7 +9,7 @@ Data Analytics – Machine Learning
 
 **2. Team Information**
 
-* **Team Name:** Mamur_Team
+* **Team Name:** Lolo Team
 * **Team Members (Name / Student ID / Role):**
 
   * **Leader:** Abdulloh X / 202490365 / Group: I24E-2 / Role: Team Leader / Phone: +998 (99) 766-90-14
